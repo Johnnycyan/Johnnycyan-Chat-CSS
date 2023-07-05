@@ -1,6 +1,6 @@
 :root {
-    --message-stroke: 4px;
-    --message-stroke-min: -4px;
+    --message-stroke: 3px;
+    --message-stroke-min: -3px;
     --name-stroke: 1px;
     --name-stroke-min: -1px;
 }
