@@ -31,6 +31,9 @@
 #chat_container > div:nth-child(4) > span.user_info > span:nth-child(4) {
     display: none;
 }
+.emote {
+    margin-left: -8px;
+}
 .message {
 	text-shadow: 
 	    var(--message-stroke-min) var(--message-stroke-min) 0    #000,
