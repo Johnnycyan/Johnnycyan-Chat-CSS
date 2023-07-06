@@ -20,7 +20,6 @@
         drop-shadow(0                      var(--name-stroke)     0 #000)
         drop-shadow(var(--name-stroke-min) var(--name-stroke)     0 #000)
         drop-shadow(var(--name-stroke-min) 0                      0 #000);
-    letter-spacing: var(--message-stroke);
 }
 .nick::after {
     content: ':';
@@ -45,6 +44,5 @@
         var(--message-stroke-min) var(--message-stroke)     0    #000,
         var(--message-stroke-min) 0                         0    #000;
     filter: drop-shadow(0px 0px 5px rgba(0,0,0,0.5));
-    letter-spacing: var(--message-stroke);
     padding-left:30px;
 }
