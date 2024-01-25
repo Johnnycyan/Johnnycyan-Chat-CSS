@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manjari&display=swap');
 :root {
     --message-stroke: 3px;
     --message-stroke-min: -3px;
@@ -6,7 +6,7 @@
     --name-stroke-min: -1px;
 }
 #chat_container{
-    font-family:inter,sans-serif !important;
+    font-family: 'Manjari', sans-serif !important;
 }
 .user_info {
     filter: drop-shadow(0px 0px 5px rgba(0,0,0,0.6));
